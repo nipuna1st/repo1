@@ -1,0 +1,12 @@
+ Volume in drive F has no label.
+ Volume Serial Number is A079-0B6F
+
+ Directory of F:\Work\Try_Outs\Git\GitProjects
+
+03/15/2018  01:51 AM    <DIR>          .
+03/15/2018  01:51 AM    <DIR>          ..
+03/15/2018  01:26 AM                21 text1.txt
+03/15/2018  01:26 AM                21 text2.txt
+03/15/2018  01:51 AM                 0 text3.txt
+               3 File(s)             42 bytes
+               2 Dir(s)  164,586,328,064 bytes free
